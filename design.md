@@ -1,5 +1,5 @@
 # System Design Document
-## Open-Source Multilingual NEP Knowledge Assistant
+# Open-Source Multilingual NEP Knowledge Assistant
 
 ---
 
